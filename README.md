@@ -7,8 +7,9 @@
 <title>BCA</title>
 </head>
 <body>
-<h1>WELCOME</h1>
-<h2>HAVE A GOOD DAY</h2>
+<center style="color:blue;">WELCOME</center>
+<center style="color:blue;">HAVE A GOOD DAY</center>
 
 <body>
 </html>
+
