@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,9 +7,11 @@
 <meta name="viewport" content="width= device-width, intial-scale=1.0">
 <title>BCA</title>
 </head>
-<body>
-<center style="color:blue;">WELCOME</center>
-<center style="color:blue;">HAVE A GOOD DAY</center>
+<body style="background-color:black;">
+<center style="color:lightblue;font-size:50px;font-family:verdana;">WELCOME</center>
+<br>
+<br>
+<center style="color:lightblue;font-size:30px;font-family:courier;">HAVE A GOOD DAY 😇</center>
 
 <body>
 </html>
